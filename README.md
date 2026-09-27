@@ -54,7 +54,7 @@
 
 <h2>SO principal</h2>
 
-<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+<img width="200"  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
 
 <h2 align="left">
@@ -62,11 +62,11 @@
 </h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=samu3215&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github Stats" width="50%" />
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=samu3215&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github Stats" width="60%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=samu3215&show_icons=true&hide_border=true&theme=radical" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=samu3215&show_icons=true&hide_border=true&theme=radical" alt="Top Languages" width="50%" />
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
