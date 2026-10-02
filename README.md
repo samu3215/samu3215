@@ -8,14 +8,10 @@
 <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"><strong>Desarrollador Web Junior apasionado por aprender y construir código de calidad.</strong></p>
-<p align="left" >🔭 <strong>Actualmente trabajando en:</strong> el sitio web de mi portafolio y Echo una red social .</p>
-<p align="left" >🌱 <strong>Actualmente aprendiendo:</strong> Arquitectura de software, desarrollo y consumo de APIs con Node.js y Django, y Frontend con React.</p>
+<p align="left" >🔭 <strong>Trabajando en:</strong> el sitio web de mi portafolio y Echo una red social .</p>
+<p align="left" >🌱 <strong>Aprendiendo:</strong> Arquitectura de software, desarrollo y consumo de APIs con Node.js y Django, y Frontend con React.</p>
 <p align="left" >👯 <strong>Buscando colaborar en:</strong> Proyectos web de código abierto, APIs REST y herramientas donde pueda aportar código y seguir aprendiendo.</p>
 <p align="left">🤝 <strong>Buscando ayuda con:</strong> Buenas prácticas en arquitectura backend, optimización de bases de datos y diseño eficiente de APIs.</p>
-<p align="left" >💬 <strong>Pregúntame sobre:</strong> Mi proceso de aprendizaje, JS/Python o mis proyectos.</p>
-
-
-
 
 <h3 align="left">Conéctate conmigo</h3>
 <p align="left">
